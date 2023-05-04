@@ -99,6 +99,13 @@ html {
     width: 30px;
     padding: 5px;
   }
+
+  .done{
+    background-color: #34073D !important;
+    color: white !important;
+    }
+  
+
   .done-btn {
     right: 40px;
   }
